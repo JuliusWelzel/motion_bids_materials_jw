@@ -1,0 +1,16 @@
+---
+title: "Resources"
+---
+
+This page provides resources for the MOTION-BIDS project.
+
+## MOTION-BIDS specification
+The MOTION-BIDS specification is available on the [MOTION-BIDS documentation website](https://bids-specification.readthedocs.io/en/stable/modality-specific-files/motion.html).
+
+## Preprint
+The preprint of the MOTION-BIDS paper is available on [OSF](https://osf.io/preprints/psyarxiv/w6z79).
+
+## Talks
+Here are some talks about MOTION-BIDS from the past:
+
+- Methods In Mobile EEG, Belgrade 2023 - [Slides](https://juliuswelzel.github.io/bids_belgrade_2023/#/title-slide)
