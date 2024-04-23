@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This page provides resources for the MOTION-BIDS project."
+  },
+  {
+    "objectID": "index.html#motion-bids-specification",
+    "href": "index.html#motion-bids-specification",
+    "title": "Resources",
+    "section": "MOTION-BIDS specification",
+    "text": "MOTION-BIDS specification\nThe MOTION-BIDS specification is available on the MOTION-BIDS documentation website."
+  },
+  {
+    "objectID": "index.html#preprint",
+    "href": "index.html#preprint",
+    "title": "Resources",
+    "section": "Preprint",
+    "text": "Preprint\nThe preprint of the MOTION-BIDS paper is available on OSF."
+  },
+  {
+    "objectID": "index.html#talks",
+    "href": "index.html#talks",
+    "title": "Resources",
+    "section": "Talks",
+    "text": "Talks\nHere are some talks about MOTION-BIDS from the past:\n\nMethods In Mobile EEG, Belgrade 2023 - Slides"
+  }
+]
