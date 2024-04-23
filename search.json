@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Resources",
@@ -33,5 +26,12 @@
     "title": "Resources",
     "section": "Talks",
     "text": "Talks\nHere are some talks about MOTION-BIDS from the past:\n\nMethods In Mobile EEG, Belgrade 2023 - Slides"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
