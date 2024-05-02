@@ -2,15 +2,17 @@ project:
   type: website
 
 website:
-  title: "MOTION-BIDS resources"
+  title: "MOTION-BIDS"
   navbar:
+    background: primary
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Materials
+      - href: authors.qmd
+        text: Authors
       
 body-footer: |
-  ![BIDS logo](BIDS_logo.png)
+  ![BIDS logo](/pics/BIDS_Logo.png)
 
 format:
   html:

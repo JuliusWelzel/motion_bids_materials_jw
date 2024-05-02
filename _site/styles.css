@@ -21,3 +21,7 @@ footer.custom-logo img {
     width: 120px; /* Set the width as needed */
     height: auto;
 }
+
+.navbar {
+    background-color: #006685; /* set the main color */
+  }
