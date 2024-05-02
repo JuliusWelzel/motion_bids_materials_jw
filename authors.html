@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.550">
+<meta name="generator" content="quarto-1.4.554">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>MOTION-BIDS resources - Authors</title>
+<title>MOTION-BIDS - Authors</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">MOTION-BIDS resources</span>
+    <span class="navbar-title">MOTION-BIDS</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -90,10 +90,10 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Home</span></a>
+<span class="menu-text">Materials</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link active" href="./authors.html" aria-current="page"> 
 <span class="menu-text">Authors</span></a>
   </li>  
 </ul>
@@ -139,13 +139,32 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<style>
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
 <section id="sein-jeung" class="level2">
 <h2 class="anchored" data-anchor-id="sein-jeung">Sein Jeung</h2>
 <p>Sein is a interested in Investigating human spatial cognition using mobile EEG Berlin Mobile Brain-Body Imaging Lab &amp; Doellerlab. She is a dedicated Open Science enthusiast!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="pics/sein.jpg" class="center img-fluid figure-img" style="width:50.0%"></p>
+<figcaption>Sein</figcaption>
+</figure>
+</div>
 </section>
 <section id="julius-welzel" class="level2">
 <h2 class="anchored" data-anchor-id="julius-welzel">Julius Welzel</h2>
 <p>Julius has completed his masters in 2019 in Cognitive Neuropsychology in Oldenburg, Germany and is still pursuing his PhD in Kiel, Germany where he started building a Open Science EEG lab based in the deparment of Neurology. He has a daughter which you can meet at conferences or in one of his many Zoom calls.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="pics/julius.png" class="center img-fluid figure-img" style="width:50.0%"></p>
+<figcaption>Julius</figcaption>
+</figure>
+</div>
 
 
 </section>
@@ -230,6 +249,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/JuliusWelzel\.github\.io\/motion_bids_materials_jw\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -264,7 +301,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
