@@ -13,9 +13,9 @@ title: "Authors"
 ## Sein Jeung
 Sein is a interested in Investigating human spatial cognition using mobile EEG Berlin Mobile Brain-Body Imaging Lab & Doellerlab. She is a dedicated Open Science enthusiast!
 
-![Sein](pics/sein.jpg){ width=50% class=center }
+![](pics/sein.jpg){ width=50% class=center }
 
 ## Julius Welzel
 Julius has completed his masters in 2019 in Cognitive Neuropsychology in Oldenburg, Germany and is still pursuing his PhD in Kiel, Germany where he started building a Open Science EEG lab based in the deparment of Neurology. He has a daughter which you can meet at conferences or in one of his many Zoom calls. 
 
-![Julius](pics/julius.png){ width="50%" class=center }
+![](pics/julius.png){ width="50%" class=center }
