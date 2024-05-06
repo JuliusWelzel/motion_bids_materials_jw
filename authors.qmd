@@ -11,7 +11,7 @@ title: "Authors"
 </style>
 
 ## Sein Jeung
-Sein is a interested in Investigating human spatial cognition using mobile EEG Berlin Mobile Brain-Body Imaging Lab & Doellerlab. She is a dedicated Open Science enthusiast!
+Sein is investigating human spatial cognition using mobile EEG at the [Berlin Mobile Brain-Body Imaging Lab](https://blogs.tu-berlin.de/bpn_bemobil/) & [Doellerlab](https://doellerlab.com/). She is a dedicated Open Science enthusiast!
 
 ![](pics/sein.jpg){ width=50% class=center }
 
