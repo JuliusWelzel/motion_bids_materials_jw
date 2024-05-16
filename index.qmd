@@ -14,7 +14,7 @@ The preprint of the MOTION-BIDS paper is available on [OSF](https://osf.io/prepr
 Here are some talks about MOTION-BIDS from the past:
 
 - Methods In Mobile EEG, Belgrade 2023 - [Slides](https://juliuswelzel.github.io/bids_belgrade_2023/#/title-slide)
-- Open Science Series, Oldenburg 2024 - [Uploaded once completed](work in progress)
+- Open Science Series, Oldenburg 2024 - [Slides](slides/2405_bidsIntro_oldenburg_welzel.pdf)
 
 ## Tutorials
 You can browse the tutorials to get started with MOTION-BIDS or BIDS in general:
