@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "authors.html",
+    "href": "authors.html",
+    "title": "Authors",
+    "section": "",
+    "text": "Sein is investigating human spatial cognition using mobile EEG at the Berlin Mobile Brain-Body Imaging Lab & Doellerlab. She is a dedicated Open Science enthusiast!"
+  },
+  {
+    "objectID": "authors.html#sein-jeung",
+    "href": "authors.html#sein-jeung",
+    "title": "Authors",
+    "section": "",
+    "text": "Sein is investigating human spatial cognition using mobile EEG at the Berlin Mobile Brain-Body Imaging Lab & Doellerlab. She is a dedicated Open Science enthusiast!"
+  },
+  {
+    "objectID": "authors.html#julius-welzel",
+    "href": "authors.html#julius-welzel",
+    "title": "Authors",
+    "section": "Julius Welzel",
+    "text": "Julius Welzel\nJulius has completed his masters in 2019 in Cognitive Neuropsychology in Oldenburg, Germany and is still pursuing his PhD in Kiel, Germany where he started building a Open Science EEG lab based in the deparment of Neurology. He has a daughter which you can meet at conferences or in one of his many Zoom calls."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Resources",
@@ -25,7 +46,7 @@
     "href": "index.html#talks",
     "title": "Resources",
     "section": "Talks",
-    "text": "Talks\nHere are some talks about MOTION-BIDS from the past:\n\nMethods In Mobile EEG, Belgrade 2023 - Slides\nOpen Science Series, Oldenburg 2024 - Uploaded once completed"
+    "text": "Talks\nHere are some talks about MOTION-BIDS from the past:\n\nMethods In Mobile EEG, Belgrade 2023 - Slides\nOpen Science Series, Oldenburg 2024 - Slides"
   },
   {
     "objectID": "index.html#tutorials",
@@ -33,26 +54,5 @@
     "title": "Resources",
     "section": "Tutorials",
     "text": "Tutorials\nYou can browse the tutorials to get started with MOTION-BIDS or BIDS in general:\n\nBIDS specification, a greate place to start - Link\nMotion data to BIDS in Fieldtrip - Link"
-  },
-  {
-    "objectID": "authors.html",
-    "href": "authors.html",
-    "title": "Authors",
-    "section": "",
-    "text": "Sein is investigating human spatial cognition using mobile EEG at the Berlin Mobile Brain-Body Imaging Lab & Doellerlab. She is a dedicated Open Science enthusiast!"
-  },
-  {
-    "objectID": "authors.html#sein-jeung",
-    "href": "authors.html#sein-jeung",
-    "title": "Authors",
-    "section": "",
-    "text": "Sein is investigating human spatial cognition using mobile EEG at the Berlin Mobile Brain-Body Imaging Lab & Doellerlab. She is a dedicated Open Science enthusiast!"
-  },
-  {
-    "objectID": "authors.html#julius-welzel",
-    "href": "authors.html#julius-welzel",
-    "title": "Authors",
-    "section": "Julius Welzel",
-    "text": "Julius Welzel\nJulius has completed his masters in 2019 in Cognitive Neuropsychology in Oldenburg, Germany and is still pursuing his PhD in Kiel, Germany where he started building a Open Science EEG lab based in the deparment of Neurology. He has a daughter which you can meet at conferences or in one of his many Zoom calls."
   }
 ]
