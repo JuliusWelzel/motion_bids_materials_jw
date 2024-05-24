@@ -54,5 +54,12 @@
     "title": "Resources",
     "section": "Tutorials",
     "text": "Tutorials\nYou can browse the tutorials to get started with MOTION-BIDS or BIDS in general:\n\nBIDS specification, a greate place to start - Link\nMotion data to BIDS in Fieldtrip - Link"
+  },
+  {
+    "objectID": "index.html#example-data-sets",
+    "href": "index.html#example-data-sets",
+    "title": "Resources",
+    "section": "Example data sets",
+    "text": "Example data sets\n\nData sets on BIDS-examples demonstrate file names and folder structure but do not include the actual data. Data set 2. is found in full version on OpenNeuro, see link below.\n\n\nData set “dual task” shows data from optical motion capture system used with EEG. Provided by Janna Protzak & Klaus Gramann.\n\n\nDate set “spot rotation” contains data from another EEG + motion capture experiment with optical and VR-based motion tracking. On OpenNeuro the full data set is found including position, orientation values as well as EEG data. Provided by Klaus Gramann, published as Gramann et al., (2021) “Human cortical dynamics during full-body heading changes”.\n\n\nData set “system validation” contains motion data collected using IMUs and an optical system simultaneously. Provided by Elke Warmerdam, published as Warmerdam et al., (2021) “Proposed Mobility Assessments with Simultaneous Full-Body Inertial Measurement Units and Optical Motion Capture in Healthy Adults and Neurological Patients for Future Validation Studies: Study Protocol”."
   }
 ]
