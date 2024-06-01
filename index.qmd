@@ -10,11 +10,12 @@ The MOTION-BIDS specification is available on the [MOTION-BIDS documentation web
 ## Preprint
 The preprint of the MOTION-BIDS paper is available on [OSF](https://osf.io/preprints/psyarxiv/w6z79).
 
-## Talks
-Here are some talks about MOTION-BIDS from the past:
+## Presentations
+Here are some talks or posters about MOTION-BIDS from the past:
 
 - Methods In Mobile EEG, Belgrade 2023 - [Slides](https://juliuswelzel.github.io/bids_belgrade_2023/#/title-slide)
 - Open Science Series, Oldenburg 2024 - [Slides](slides/2405_bidsIntro_oldenburg_welzel.pdf)
+- Psychologie & Gehirn ([IGOR Prize](https://www.dgps.de/fachgruppen/fgbi/aktivitaeten-der-fachgruppe/igor/)), Hamburg 2024 - [Poster](slides/08_welzel.pdf)
 
 ## Tutorials
 You can browse the tutorials to get started with MOTION-BIDS or BIDS in general:
