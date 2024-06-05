@@ -16,6 +16,7 @@ Here are some talks or posters about MOTION-BIDS from the past:
 - Methods In Mobile EEG, Belgrade 2023 - [Slides](https://juliuswelzel.github.io/bids_belgrade_2023/#/title-slide)
 - Open Science Series, Oldenburg 2024 - [Slides](slides/2405_bidsIntro_oldenburg_welzel.pdf)
 - Psychologie & Gehirn ([IGOR Prize](https://www.dgps.de/fachgruppen/fgbi/aktivitaeten-der-fachgruppe/igor/)), Hamburg 2024 - [Poster](slides/08_welzel.pdf)
+- Mobile Brain Imaging concerence (MOBI), Piran, 2024 - [Slides](slides/2406_ngmt_mobi.pdf)
 
 ## Tutorials
 You can browse the tutorials to get started with MOTION-BIDS or BIDS in general:
