@@ -7,22 +7,30 @@ This page provides resources for the MOTION-BIDS project.
 ## MOTION-BIDS specification
 The MOTION-BIDS specification is available on the [MOTION-BIDS documentation website](https://bids-specification.readthedocs.io/en/stable/modality-specific-files/motion.html).
 
-## Preprint
-The preprint of the MOTION-BIDS paper is available on [OSF](https://osf.io/preprints/psyarxiv/w6z79).
+## Publication 
+The MOTION-BIDS paper is available [online](https://www.nature.com/articles/s41597-024-03559-8).
 
-## Presentations
-Here are some talks or posters about MOTION-BIDS from the past:
+## Workshops and presentations 
+Here are some talks or posters about MOTION-BIDS from the past :
 
-- Methods In Mobile EEG, Belgrade 2023 - [Slides](https://juliuswelzel.github.io/bids_belgrade_2023/#/title-slide)
-- Open Science Series, Oldenburg 2024 - [Slides](slides/2405_bidsIntro_oldenburg_welzel.pdf)
-- Psychologie & Gehirn ([IGOR Prize](https://www.dgps.de/fachgruppen/fgbi/aktivitaeten-der-fachgruppe/igor/)), Hamburg 2024 - [Poster](slides/08_welzel.pdf)
-- Mobile Brain Imaging concerence (MOBI), Piran, 2024 - [Slides](slides/2406_ngmt_mobi.pdf)
+- Mobile Brain Imaging Conference (MOBI), Piran, 2024 - Workshop by Sein Jeung & Julius Welzel
+  [Slides](slides/2406_ngmt_mobi.pdf)
+- Psychologie & Gehirn ([IGOR Prize](https://www.dgps.de/fachgruppen/fgbi/aktivitaeten-der-fachgruppe/igor/)), Hamburg 2024 - Poster by Julius Welzel 
+  [Poster](slides/08_welzel.pdf)
+- Open Science Series, Oldenburg 2024 - Workshop by Julius Welzel
+  [Slides](slides/2405_bidsIntro_oldenburg_welzel.pdf)
+- Methods In Mobile EEG, Belgrade 2023 - Workshop by Julius Welzel 
+  [Slides](https://juliuswelzel.github.io/bids_belgrade_2023/#/title-slide)
 
-## Tutorials
+Related talks about BIDS : 
+- Neuroergonomics Conference, Bordeaux 2024 - Multimodal BIDS Workshop by Sein Jeung & Lukas Gehrke 
+
+## Tutorials & repositories
 You can browse the tutorials to get started with MOTION-BIDS or BIDS in general:
 
 - BIDS specification, a greate place to start - [Link](https://bids-specification.readthedocs.io/)
 - Motion data to BIDS in Fieldtrip - [Link](https://www.fieldtriptoolbox.org/example/bids_motion/)
+- Scripts for converting XDF data to BIDS  - [Link](https://github.com/sjeung/multimodal_XDF-to-BID)
 
 ## Example data sets
 - Data sets on BIDS-examples demonstrate file names and folder structure but do not include the actual data. Data set 2. is found in full version on OpenNeuro, see link below.
