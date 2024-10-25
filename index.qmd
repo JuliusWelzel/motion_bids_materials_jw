@@ -23,7 +23,10 @@ Here are some talks or posters about MOTION-BIDS from the past :
   [Slides](https://juliuswelzel.github.io/bids_belgrade_2023/#/title-slide)
 
 Related talks about BIDS : 
+
 - Neuroergonomics Conference, Bordeaux 2024 - Multimodal BIDS Workshop by Sein Jeung & Lukas Gehrke 
+- Open Science Series, DGPA, 2024 - Workshop by Sein Jeung & Julius Welzel
+  [Slides](slides/2410_dgpa_welzel_jeung.pdf)
 
 ## Tutorials & repositories
 You can browse the tutorials to get started with MOTION-BIDS or BIDS in general:
