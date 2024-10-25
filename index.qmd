@@ -34,6 +34,7 @@ You can browse the tutorials to get started with MOTION-BIDS or BIDS in general:
 - BIDS specification, a greate place to start - [Link](https://bids-specification.readthedocs.io/)
 - Motion data to BIDS in Fieldtrip - [Link](https://www.fieldtriptoolbox.org/example/bids_motion/)
 - Scripts for converting XDF data to BIDS  - [Link](https://github.com/sjeung/multimodal_XDF-to-BID)
+- Github repo with workshop material for Python - [Link](https://github.com/JuliusWelzel/bids_workshop)
 
 ## Example data sets
 - Data sets on BIDS-examples demonstrate file names and folder structure but do not include the actual data. Data set 2. is found in full version on OpenNeuro, see link below.
