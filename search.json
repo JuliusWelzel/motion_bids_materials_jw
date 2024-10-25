@@ -32,7 +32,7 @@
     "href": "index.html#tutorials-repositories",
     "title": "Resources",
     "section": "Tutorials & repositories",
-    "text": "Tutorials & repositories\nYou can browse the tutorials to get started with MOTION-BIDS or BIDS in general:\n\nBIDS specification, a greate place to start - Link\nMotion data to BIDS in Fieldtrip - Link\nScripts for converting XDF data to BIDS - Link"
+    "text": "Tutorials & repositories\nYou can browse the tutorials to get started with MOTION-BIDS or BIDS in general:\n\nBIDS specification, a greate place to start - Link\nMotion data to BIDS in Fieldtrip - Link\nScripts for converting XDF data to BIDS - Link\nGithub repo with workshop material for Python - Link"
   },
   {
     "objectID": "index.html#example-data-sets",
