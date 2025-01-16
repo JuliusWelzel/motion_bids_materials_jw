@@ -12,8 +12,8 @@ The MOTION-BIDS paper is available [online](https://www.nature.com/articles/s415
 
 ## IGOR BIDS consultation hour
 Thanks to IGOR, we offer a consultation hour for BIDS related questions. 
-The consultation hour is open to everyone who is interested in BIDS or have questions about the their BIDS work.
-https://juliuswelzel.github.io/igor_bids_consultation/
+The consultation hour is open to everyone who is interested in BIDS or has questions about how to convert data to BIDS.
+[Website](https://juliuswelzel.github.io/igor_bids_consultation/)
 
 ## Workshops and presentations 
 Here are some talks or posters about MOTION-BIDS from the past :
