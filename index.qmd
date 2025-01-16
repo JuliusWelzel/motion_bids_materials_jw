@@ -10,9 +10,18 @@ The MOTION-BIDS specification is available on the [MOTION-BIDS documentation web
 ## Publication 
 The MOTION-BIDS paper is available [online](https://www.nature.com/articles/s41597-024-03559-8).
 
+## IGOR BIDS consultation hour
+Thanks to IGOR, we offer a consultation hour for BIDS related questions. 
+The consultation hour is open to everyone who is interested in BIDS or have questions about the their BIDS work.
+https://juliuswelzel.github.io/igor_bids_consultation/
+
 ## Workshops and presentations 
 Here are some talks or posters about MOTION-BIDS from the past :
 
+- GAMMA Workshop, Kiel 2024 - Workshop by Julius Welzel
+  [Slides](slides/2410_gamma_welzel.pdf)
+- BIDS workshop CBBM Lübeck, 2024 - Talk/Workshop by Julius Welzel
+  [Slides](slides/2410_bidsIntro_luebeck_welzel.pdf.pdf)
 - Mobile Brain Imaging Conference (MOBI), Piran, 2024 - Workshop by Sein Jeung & Julius Welzel
   [Slides](slides/2406_ngmt_mobi.pdf)
 - Psychologie & Gehirn ([IGOR Prize](https://www.dgps.de/fachgruppen/fgbi/aktivitaeten-der-fachgruppe/igor/)), Hamburg 2024 - Poster by Julius Welzel 
