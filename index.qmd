@@ -18,11 +18,11 @@ The consultation hour is open to everyone who is interested in BIDS or has quest
 ## Workshops and presentations 
 Here are some talks or posters about MOTION-BIDS from the past :
 
+- imove, Lübeck, 2025 - [Materials](https://github.com/JuliusWelzel/imove_bids_handson/tree/master) 
 - GAMMA Workshop, Kiel 2024 - Workshop by Julius Welzel
   [Slides](slides/2410_gamma_welzel.pdf)
 - BIDS workshop CBBM Lübeck, 2024 - Talk/Workshop by Julius Welzel
   [Slides](slides/2410_bidsIntro_luebeck_welzel.pdf.pdf)
-- imove, Lübeck, 2025 - [Materials](https://github.com/JuliusWelzel/imove_bids_handson/tree/master) 
 - Mobile Brain Imaging Conference (MOBI), Piran, 2024 - Workshop by Sein Jeung & Julius Welzel
   [Slides](slides/2406_ngmt_mobi.pdf)
 - Psychologie & Gehirn, Hamburg 2024 - Poster by Julius Welzel 
