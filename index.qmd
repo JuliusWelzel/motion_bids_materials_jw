@@ -18,7 +18,7 @@ The consultation hour is open to everyone who is interested in BIDS or has quest
 ## Workshops and presentations 
 Here are some talks or posters about MOTION-BIDS from the past :
 
-- imove, Lübeck, 2025 - [Materials](https://github.com/JuliusWelzel/imove_bids_handson/tree/master) 
+- imove, Lübeck, 2025 - [Materials](https://github.com/JuliusWelzel/imove_bids_handson/tree/master) - [Slides](https://github.com/JuliusWelzel/imove_bids_handson/blob/master/bids_imove_welzel.pdf)
 - GAMMA Workshop, Kiel 2024 - Workshop by Julius Welzel
   [Slides](slides/2410_gamma_welzel.pdf)
 - BIDS workshop CBBM Lübeck, 2024 - Talk/Workshop by Julius Welzel
