@@ -42,18 +42,18 @@
     "text": "Publication\nThe MOTION-BIDS paper is available online."
   },
   {
-    "objectID": "index.html#igor-bids-consultation-hour",
-    "href": "index.html#igor-bids-consultation-hour",
+    "objectID": "index.html#motionbids-python-package",
+    "href": "index.html#motionbids-python-package",
     "title": "Resources",
-    "section": "IGOR BIDS consultation hour",
-    "text": "IGOR BIDS consultation hour\nThanks to IGOR, we offer a consultation hour for BIDS related questions. The consultation hour is open to everyone who is interested in BIDS or has questions about how to convert data to BIDS. Website"
+    "section": "motionbids python package",
+    "text": "motionbids python package\nThis packges provides a lightweight conversion tool of motion data (e.g. IMU) to BIDS with examples. YOu can find the packages docs here."
   },
   {
     "objectID": "index.html#workshops-and-presentations",
     "href": "index.html#workshops-and-presentations",
     "title": "Resources",
     "section": "Workshops and presentations",
-    "text": "Workshops and presentations\nHere are some talks or posters about MOTION-BIDS from the past :\n\nimove, Lübeck, 2025 - Materials - Slides\nGAMMA Workshop, Kiel 2024 - Workshop by Julius Welzel Slides\nBIDS workshop CBBM Lübeck, 2024 - Talk/Workshop by Julius Welzel Slides\nMobile Brain Imaging Conference (MOBI), Piran, 2024 - Workshop by Sein Jeung & Julius Welzel Slides\nPsychologie & Gehirn, Hamburg 2024 - Poster by Julius Welzel Poster\nOpen Science Series, Oldenburg 2024 - Workshop by Julius Welzel Slides\nMethods In Mobile EEG, Belgrade 2023 - Workshop by Julius Welzel Slides\n\nRelated talks about BIDS :\n\nNeuroergonomics Conference, Bordeaux 2024 - Multimodal BIDS Workshop by Sein Jeung & Lukas Gehrke\nOpen Science Series, DGPA, 2024 - Workshop by Sein Jeung & Julius Welzel Slides"
+    "text": "Workshops and presentations\nHere are some talks or posters about MOTION-BIDS from the past :\n\nCeTI, TU Dresden, 2026 - Materials - Slides\nimove, Lübeck, 2025 - Materials - Slides\nGAMMA Workshop, Kiel 2024 - Workshop by Julius Welzel Slides\nBIDS workshop CBBM Lübeck, 2024 - Talk/Workshop by Julius Welzel Slides\nMobile Brain Imaging Conference (MOBI), Piran, 2024 - Workshop by Sein Jeung & Julius Welzel Slides\nPsychologie & Gehirn, Hamburg 2024 - Poster by Julius Welzel Poster\nOpen Science Series, Oldenburg 2024 - Workshop by Julius Welzel Slides\nOpen Science Series, DGPA, 2024 - Workshop by Sein Jeung & Julius Welzel Slides\nMethods In Mobile EEG, Belgrade 2023 - Workshop by Julius Welzel Slides"
   },
   {
     "objectID": "index.html#tutorials-repositories",

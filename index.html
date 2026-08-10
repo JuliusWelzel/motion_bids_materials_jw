@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.26">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Resources – MOTION-BIDS</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -32,15 +38,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e43737551e85bdbe38a66ddb6c6b26bd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-8c7e8c6e2e7615238a48094f8cfd9dfb.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -116,7 +121,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#motion-bids-specification" id="toc-motion-bids-specification" class="nav-link active" data-scroll-target="#motion-bids-specification">MOTION-BIDS specification</a></li>
   <li><a href="#publication" id="toc-publication" class="nav-link" data-scroll-target="#publication">Publication</a></li>
-  <li><a href="#igor-bids-consultation-hour" id="toc-igor-bids-consultation-hour" class="nav-link" data-scroll-target="#igor-bids-consultation-hour">IGOR BIDS consultation hour</a></li>
+  <li><a href="#motionbids-python-package" id="toc-motionbids-python-package" class="nav-link" data-scroll-target="#motionbids-python-package">motionbids python package</a></li>
   <li><a href="#workshops-and-presentations" id="toc-workshops-and-presentations" class="nav-link" data-scroll-target="#workshops-and-presentations">Workshops and presentations</a></li>
   <li><a href="#tutorials-repositories" id="toc-tutorials-repositories" class="nav-link" data-scroll-target="#tutorials-repositories">Tutorials &amp; repositories</a></li>
   <li><a href="#example-data-sets" id="toc-example-data-sets" class="nav-link" data-scroll-target="#example-data-sets">Example data sets</a></li>
@@ -154,26 +159,23 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="publication">Publication</h2>
 <p>The MOTION-BIDS paper is available <a href="https://www.nature.com/articles/s41597-024-03559-8">online</a>.</p>
 </section>
-<section id="igor-bids-consultation-hour" class="level2">
-<h2 class="anchored" data-anchor-id="igor-bids-consultation-hour">IGOR BIDS consultation hour</h2>
-<p>Thanks to IGOR, we offer a consultation hour for BIDS related questions. The consultation hour is open to everyone who is interested in BIDS or has questions about how to convert data to BIDS. <a href="https://juliuswelzel.github.io/igor_bids_consultation/">Website</a></p>
+<section id="motionbids-python-package" class="level2">
+<h2 class="anchored" data-anchor-id="motionbids-python-package">motionbids python package</h2>
+<p>This packges provides a lightweight conversion tool of motion data (e.g.&nbsp;IMU) to BIDS with <a href="https://juliuswelzel.github.io/motionbids/examples/">examples</a>. YOu can find the packages docs <a href="https://juliuswelzel.github.io/motionbids/">here</a>.</p>
 </section>
 <section id="workshops-and-presentations" class="level2">
 <h2 class="anchored" data-anchor-id="workshops-and-presentations">Workshops and presentations</h2>
 <p>Here are some talks or posters about MOTION-BIDS from the past :</p>
 <ul>
+<li><a href="https://tu-dresden.de/tu-dresden/exzellenz/exzellenzcluster/ceti">CeTI</a>, TU Dresden, 2026 - <a href="https://github.com/JuliusWelzel/BidsWS_TUDresden/tree/main">Materials</a> - <a href="slides/2607_ceti_welzel_jeung.pdf">Slides</a></li>
 <li>imove, Lübeck, 2025 - <a href="https://github.com/JuliusWelzel/imove_bids_handson/tree/master">Materials</a> - <a href="https://github.com/JuliusWelzel/imove_bids_handson/blob/master/bids_imove_welzel.pdf">Slides</a></li>
 <li>GAMMA Workshop, Kiel 2024 - Workshop by Julius Welzel <a href="slides/2410_gamma_welzel.pdf">Slides</a></li>
-<li>BIDS workshop CBBM Lübeck, 2024 - Talk/Workshop by Julius Welzel <a href="slides/2410_bidsIntro_luebeck_welzel.pdf.pdf">Slides</a></li>
+<li>BIDS workshop CBBM Lübeck, 2024 - Talk/Workshop by Julius Welzel <a href="slides/2410_bidsIntro_luebeck_welzel.pdf">Slides</a></li>
 <li>Mobile Brain Imaging Conference (MOBI), Piran, 2024 - Workshop by Sein Jeung &amp; Julius Welzel <a href="slides/2406_ngmt_mobi.pdf">Slides</a></li>
 <li>Psychologie &amp; Gehirn, Hamburg 2024 - Poster by Julius Welzel <a href="slides/08_welzel.pdf">Poster</a></li>
 <li>Open Science Series, Oldenburg 2024 - Workshop by Julius Welzel <a href="slides/2405_bidsIntro_oldenburg_welzel.pdf">Slides</a></li>
-<li>Methods In Mobile EEG, Belgrade 2023 - Workshop by Julius Welzel <a href="https://juliuswelzel.github.io/bids_belgrade_2023/#/title-slide">Slides</a></li>
-</ul>
-<p>Related talks about BIDS :</p>
-<ul>
-<li>Neuroergonomics Conference, Bordeaux 2024 - Multimodal BIDS Workshop by Sein Jeung &amp; Lukas Gehrke</li>
 <li>Open Science Series, DGPA, 2024 - Workshop by Sein Jeung &amp; Julius Welzel <a href="slides/2410_dgpa_welzel_jeung.pdf">Slides</a></li>
+<li>Methods In Mobile EEG, Belgrade 2023 - Workshop by Julius Welzel <a href="https://juliuswelzel.github.io/bids_belgrade_2023/#/title-slide">Slides</a></li>
 </ul>
 </section>
 <section id="tutorials-repositories" class="level2">
