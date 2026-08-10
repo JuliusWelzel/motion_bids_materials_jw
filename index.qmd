@@ -10,33 +10,28 @@ The MOTION-BIDS specification is available on the [MOTION-BIDS documentation web
 ## Publication 
 The MOTION-BIDS paper is available [online](https://www.nature.com/articles/s41597-024-03559-8).
 
-## IGOR BIDS consultation hour
-Thanks to IGOR, we offer a consultation hour for BIDS related questions. 
-The consultation hour is open to everyone who is interested in BIDS or has questions about how to convert data to BIDS.
-[Website](https://juliuswelzel.github.io/igor_bids_consultation/)
+## motionbids python package
+This packges provides a lightweight conversion tool of motion data (e.g. IMU) to BIDS with [examples](https://juliuswelzel.github.io/motionbids/examples/). YOu can find the packages docs [here](https://juliuswelzel.github.io/motionbids/).
 
 ## Workshops and presentations 
 Here are some talks or posters about MOTION-BIDS from the past :
 
+- [CeTI](https://tu-dresden.de/tu-dresden/exzellenz/exzellenzcluster/ceti), TU Dresden, 2026 - [Materials](https://github.com/JuliusWelzel/BidsWS_TUDresden/tree/main) - [Slides](slides/2607_ceti_welzel_jeung.pdf)
 - imove, Lübeck, 2025 - [Materials](https://github.com/JuliusWelzel/imove_bids_handson/tree/master) - [Slides](https://github.com/JuliusWelzel/imove_bids_handson/blob/master/bids_imove_welzel.pdf)
 - GAMMA Workshop, Kiel 2024 - Workshop by Julius Welzel
   [Slides](slides/2410_gamma_welzel.pdf)
 - BIDS workshop CBBM Lübeck, 2024 - Talk/Workshop by Julius Welzel
-  [Slides](slides/2410_bidsIntro_luebeck_welzel.pdf.pdf)
+  [Slides](slides/2410_bidsIntro_luebeck_welzel.pdf)
 - Mobile Brain Imaging Conference (MOBI), Piran, 2024 - Workshop by Sein Jeung & Julius Welzel
   [Slides](slides/2406_ngmt_mobi.pdf)
 - Psychologie & Gehirn, Hamburg 2024 - Poster by Julius Welzel 
   [Poster](slides/08_welzel.pdf)
 - Open Science Series, Oldenburg 2024 - Workshop by Julius Welzel
   [Slides](slides/2405_bidsIntro_oldenburg_welzel.pdf)
-- Methods In Mobile EEG, Belgrade 2023 - Workshop by Julius Welzel 
-  [Slides](https://juliuswelzel.github.io/bids_belgrade_2023/#/title-slide)
-
-Related talks about BIDS : 
-
-- Neuroergonomics Conference, Bordeaux 2024 - Multimodal BIDS Workshop by Sein Jeung & Lukas Gehrke 
 - Open Science Series, DGPA, 2024 - Workshop by Sein Jeung & Julius Welzel
   [Slides](slides/2410_dgpa_welzel_jeung.pdf)
+- Methods In Mobile EEG, Belgrade 2023 - Workshop by Julius Welzel 
+  [Slides](https://juliuswelzel.github.io/bids_belgrade_2023/#/title-slide)
 
 ## Tutorials & repositories
 You can browse the tutorials to get started with MOTION-BIDS or BIDS in general:
