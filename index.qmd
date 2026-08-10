@@ -16,21 +16,24 @@ This packges provides a lightweight conversion tool of motion data (e.g. IMU) to
 ## Workshops and presentations 
 Here are some talks or posters about MOTION-BIDS from the past :
 
-- [CeTI](https://tu-dresden.de/tu-dresden/exzellenz/exzellenzcluster/ceti), TU Dresden, 2026 - [Materials](https://github.com/JuliusWelzel/BidsWS_TUDresden/tree/main) - [Slides](slides/2607_ceti_welzel_jeung.pdf)
-- imove, Lübeck, 2025 - [Materials](https://github.com/JuliusWelzel/imove_bids_handson/tree/master) - [Slides](https://github.com/JuliusWelzel/imove_bids_handson/blob/master/bids_imove_welzel.pdf)
-- GAMMA Workshop, Kiel 2024 - Workshop by Julius Welzel
+- [CeTI](https://tu-dresden.de/tu-dresden/exzellenz/exzellenzcluster/ceti), TU Dresden, 2026 //
+  [Materials](https://github.com/JuliusWelzel/BidsWS_TUDresden/tree/main) - [Slides](slides/2607_ceti_welzel_jeung.pdf)
+- imove, Lübeck, 2025 //
+  [Materials](https://github.com/JuliusWelzel/imove_bids_handson/tree/master)
+  [Slides](https://github.com/JuliusWelzel/imove_bids_handson/blob/master/bids_imove_welzel.pdf)
+- GAMMA Workshop, Kiel 2024 - Workshop by Julius Welzel //
   [Slides](slides/2410_gamma_welzel.pdf)
-- BIDS workshop CBBM Lübeck, 2024 - Talk/Workshop by Julius Welzel
+- BIDS workshop CBBM Lübeck, 2024 - Talk/Workshop by Julius Welzel //
   [Slides](slides/2410_bidsIntro_luebeck_welzel.pdf)
-- Mobile Brain Imaging Conference (MOBI), Piran, 2024 - Workshop by Sein Jeung & Julius Welzel
+- Mobile Brain Imaging Conference (MOBI), Piran, 2024 - Workshop by Sein Jeung & Julius Welzel //
   [Slides](slides/2406_ngmt_mobi.pdf)
-- Psychologie & Gehirn, Hamburg 2024 - Poster by Julius Welzel 
+- Psychologie & Gehirn, Hamburg 2024 - Poster by Julius Welzel //
   [Poster](slides/08_welzel.pdf)
-- Open Science Series, Oldenburg 2024 - Workshop by Julius Welzel
+- Open Science Series, Oldenburg 2024 - Workshop by Julius Welzel //
   [Slides](slides/2405_bidsIntro_oldenburg_welzel.pdf)
-- Open Science Series, DGPA, 2024 - Workshop by Sein Jeung & Julius Welzel
+- Open Science Series, DGPA, 2024 - Workshop by Sein Jeung & Julius Welzel //
   [Slides](slides/2410_dgpa_welzel_jeung.pdf)
-- Methods In Mobile EEG, Belgrade 2023 - Workshop by Julius Welzel 
+- Methods In Mobile EEG, Belgrade 2023 - Workshop by Julius Welzel //
   [Slides](https://juliuswelzel.github.io/bids_belgrade_2023/#/title-slide)
 
 ## Tutorials & repositories
