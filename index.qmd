@@ -11,7 +11,7 @@ The MOTION-BIDS specification is available on the [MOTION-BIDS documentation web
 The MOTION-BIDS paper is available [online](https://www.nature.com/articles/s41597-024-03559-8).
 
 ## motionbids python package
-This packges provides a lightweight conversion tool of motion data (e.g. IMU) to BIDS with [examples](https://juliuswelzel.github.io/motionbids/examples/). YOu can find the packages docs [here](https://juliuswelzel.github.io/motionbids/).
+This packges provides a lightweight conversion tool of motion data (e.g. IMU) to BIDS with [examples](https://juliuswelzel.github.io/motionbids/examples/). You can find the packages docs [here](https://juliuswelzel.github.io/motionbids/).
 
 ## Workshops and presentations 
 Here are some talks or posters about MOTION-BIDS from the past :

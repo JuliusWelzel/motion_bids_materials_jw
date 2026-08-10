@@ -25,3 +25,15 @@ footer.custom-logo img {
 .navbar {
     background-color: #006685; /* set the main color */
   }
+
+/* Make the main content area wider so text lines do not get cut off */
+.quarto-container,
+.main-container,
+.content,
+.page-columns,
+.page-layout-article {
+    max-width: 1200px !important;
+    width: min(100%, 1200px);
+    margin-left: auto;
+    margin-right: auto;
+}
